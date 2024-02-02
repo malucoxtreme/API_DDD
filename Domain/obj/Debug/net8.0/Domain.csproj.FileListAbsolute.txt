@@ -1,0 +1,11 @@
+C:\Users\DILLEMON\source\repos\API_DDD\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\DILLEMON\source\repos\API_DDD\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\DILLEMON\source\repos\API_DDD\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\DILLEMON\source\repos\API_DDD\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DILLEMON\source\repos\API_DDD\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\DILLEMON\source\repos\API_DDD\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\DILLEMON\source\repos\API_DDD\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\DILLEMON\source\repos\API_DDD\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\DILLEMON\source\repos\API_DDD\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\DILLEMON\source\repos\API_DDD\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\DILLEMON\source\repos\API_DDD\Domain\obj\Debug\net8.0\ref\Domain.dll

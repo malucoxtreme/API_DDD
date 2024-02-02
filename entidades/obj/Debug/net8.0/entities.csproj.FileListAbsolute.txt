@@ -1,0 +1,11 @@
+C:\Users\DILLEMON\source\repos\API_DDD\entidades\bin\Debug\net8.0\entities.deps.json
+C:\Users\DILLEMON\source\repos\API_DDD\entidades\bin\Debug\net8.0\entities.dll
+C:\Users\DILLEMON\source\repos\API_DDD\entidades\bin\Debug\net8.0\entities.pdb
+C:\Users\DILLEMON\source\repos\API_DDD\entidades\obj\Debug\net8.0\entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DILLEMON\source\repos\API_DDD\entidades\obj\Debug\net8.0\entities.AssemblyInfoInputs.cache
+C:\Users\DILLEMON\source\repos\API_DDD\entidades\obj\Debug\net8.0\entities.AssemblyInfo.cs
+C:\Users\DILLEMON\source\repos\API_DDD\entidades\obj\Debug\net8.0\entities.csproj.CoreCompileInputs.cache
+C:\Users\DILLEMON\source\repos\API_DDD\entidades\obj\Debug\net8.0\entities.dll
+C:\Users\DILLEMON\source\repos\API_DDD\entidades\obj\Debug\net8.0\refint\entities.dll
+C:\Users\DILLEMON\source\repos\API_DDD\entidades\obj\Debug\net8.0\entities.pdb
+C:\Users\DILLEMON\source\repos\API_DDD\entidades\obj\Debug\net8.0\ref\entities.dll

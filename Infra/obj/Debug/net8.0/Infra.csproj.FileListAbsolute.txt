@@ -1,0 +1,11 @@
+C:\Users\DILLEMON\source\repos\API_DDD\Infra\bin\Debug\net8.0\Infra.deps.json
+C:\Users\DILLEMON\source\repos\API_DDD\Infra\bin\Debug\net8.0\Infra.dll
+C:\Users\DILLEMON\source\repos\API_DDD\Infra\bin\Debug\net8.0\Infra.pdb
+C:\Users\DILLEMON\source\repos\API_DDD\Infra\obj\Debug\net8.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DILLEMON\source\repos\API_DDD\Infra\obj\Debug\net8.0\Infra.AssemblyInfoInputs.cache
+C:\Users\DILLEMON\source\repos\API_DDD\Infra\obj\Debug\net8.0\Infra.AssemblyInfo.cs
+C:\Users\DILLEMON\source\repos\API_DDD\Infra\obj\Debug\net8.0\Infra.csproj.CoreCompileInputs.cache
+C:\Users\DILLEMON\source\repos\API_DDD\Infra\obj\Debug\net8.0\Infra.dll
+C:\Users\DILLEMON\source\repos\API_DDD\Infra\obj\Debug\net8.0\refint\Infra.dll
+C:\Users\DILLEMON\source\repos\API_DDD\Infra\obj\Debug\net8.0\Infra.pdb
+C:\Users\DILLEMON\source\repos\API_DDD\Infra\obj\Debug\net8.0\ref\Infra.dll
