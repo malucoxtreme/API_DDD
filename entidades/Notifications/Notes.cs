@@ -34,6 +34,7 @@ namespace entities.Notifications
                     Mesage = "Campo Obrigatório",
                     NameProperty = nameProperty,
                 });
+                return false;
             }
             return true;
         }

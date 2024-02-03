@@ -9,3 +9,7 @@ C:\Users\DILLEMON\source\repos\API_DDD\Aplication\obj\Debug\net8.0\Aplication.dl
 C:\Users\DILLEMON\source\repos\API_DDD\Aplication\obj\Debug\net8.0\refint\Aplication.dll
 C:\Users\DILLEMON\source\repos\API_DDD\Aplication\obj\Debug\net8.0\Aplication.pdb
 C:\Users\DILLEMON\source\repos\API_DDD\Aplication\obj\Debug\net8.0\ref\Aplication.dll
+C:\Users\DILLEMON\source\repos\API_DDD\Aplication\bin\Debug\net8.0\Aplication.runtimeconfig.json
+C:\Users\DILLEMON\source\repos\API_DDD\Aplication\obj\Debug\net8.0\Aplication.csproj.AssemblyReference.cache
+C:\Users\DILLEMON\source\repos\API_DDD\Aplication\obj\Debug\net8.0\Aplication.sourcelink.json
+C:\Users\DILLEMON\source\repos\API_DDD\Aplication\obj\Debug\net8.0\Aplication.genruntimeconfig.cache
